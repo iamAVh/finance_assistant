@@ -127,25 +127,4 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📄 Docs
 
-See [`docs/ai_tool_usage.md`](docs/ai_tool_usage.md) for:
-
-* LLM prompt templates
-* Model config logs
-* Code generation reasoning
-
----
-
-## 📹 Demo (Optional)
-
-> Include a GIF or MP4 showing: audio upload → transcription → analysis → spoken reply
-
----
-
-## ✨ Contributors
-
-* Ajay Hegde — System Design, Agents, Deployment
-* OpenAI GPT-4 — LLM responses
-
-MIT License
